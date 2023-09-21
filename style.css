@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-color: black;
+    box-sizing: border-box;
+    color: wheat;
+}
+p{
+    margin: 15px;
+}
+.c{
+    text-align: center;
+}
+
