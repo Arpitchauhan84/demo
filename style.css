@@ -14,4 +14,12 @@ p{
 .c{
     text-align: center;
 }
+.c ul{
+    display: flex;
+    margin: 10px;
+}
+.c ul li{
+    list-style: none;
+    margin: 10px;
+}
 
